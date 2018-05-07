@@ -46,8 +46,8 @@ V1.0
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <title></title>
-        <link rel="stylesheet" href="./dest/ready/css/VRVIUPlayer2D.min.css">
-        <script src="./dest/ready/js/VRVIUPlayer2D.min.js"></script>
+        <link rel="stylesheet" href="./dest/ready/css/VRVIU_AltPlayer.min.css">
+        <script src="./dest/ready/js/VRVIU_AltPlayer.min.js"></script>
 </head>
 <body>
 
@@ -79,8 +79,8 @@ new VRVIUPlayer2D({
 ## 配置参数表
  |参数|说明|是否必填|类型|
  |:---|:---|:---|:---|
- |url|视频或者直播流地址|必填|String|
- |isLive|是否是直播|必填|Boolean|
+ |url|需要播放的视频或者直播流地址|必填|String|
+ |isLive|播放的是否是直播|必填|Boolean|
  |AppId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AppId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AccessKeyId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
