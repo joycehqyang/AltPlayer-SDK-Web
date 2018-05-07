@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Powered%20by-vrviu.com-brightgreen.svg)](https://vrviu.com)
 
 ## 版本
-V1.0.0
+V1.0
 
 ## 功能说明
 支持FLV格式普通视频点播以及直播功能，其中直播是网络主播实时推送的视频流，用户能够及时看到主播的画面。点播是播放云端或者本地的文件。
@@ -21,7 +21,7 @@ V1.0.0
 
 
 ## 快速体验播放效果
-请访问地址：(https://rs1-pv.vrviu.com/h5/v1.3/index.html) 
+链接地址：https://rs1-pv.vrviu.com/h5/v1.3/index.html 
 
 
 ## 导入SDK
@@ -56,19 +56,19 @@ V1.0.0
 ```
 
 ##### 2.2 配置工程权限
-引入新建js文件配置相关权限
+引入新建js文件配置相关参数及权限
 
 ```javascript
-<script src="./dest/ready/js/encript2d.min.js"></script>
+<script src="./dest/ready/js/AltPlayer_Configure.min.js"></script>
 
-//encript2d.min.js
+//AltPlayer_Configure.min.js
 
 new VRVIUPlayer2D({
-        url:"https://img.vrviu.com/static/media/vrviu_level_2_e13_noSEI.flv",
-        AppId :'vrviu_test_user',
-        AccessKeyId :'vrviu_test_access_key_id',
-        BizId :'vrviu_test_bizid',
-        AccessKeySecret:"vrviu_test_access_key@1234",
+        url:"https://img.vrviu.com/static/media/VRVIU_AltPlayer_Demo.flv",
+        AppId :'vrviu_altsdk',
+        AccessKeyId :'730c029686b86a332facca0bb1a9f53a',
+        BizId :'altsdk_web_demo',
+        AccessKeySecret:"14d90ef1ee2be9f6c3469f46e2a3e566",
         isLive:false
 })
 ```
@@ -76,9 +76,12 @@ new VRVIUPlayer2D({
 
 
 
-## 账号鉴权参数表
+## 配置参数表
  |参数|说明|是否必填|类型|
  |:---|:---|:---|:---|
+ |url||视频或者直播流地址|必填|String|
+ |isLive||是否是直播|必填|Boolean|
+ |AppId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AppId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AccessKeyId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |BizId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
