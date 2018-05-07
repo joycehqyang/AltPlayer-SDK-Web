@@ -20,7 +20,7 @@ V1.0
 
 
 
-## 快速体验播放效果
+## Demo展示
 链接地址：https://rs1-pv.vrviu.com/h5/v1.3/index.html 
 
 
