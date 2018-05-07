@@ -1,4 +1,4 @@
-# VRVIU-AltPlayerSDK (web)
+# VRVIU-AltPlayerSDK (Web)
 
 [![](https://img.shields.io/badge/Powered%20by-vrviu.com-brightgreen.svg)](https://vrviu.com)
 
@@ -14,13 +14,14 @@ V1.0.0
 
 * **接口简单全面**：实现播放接口简单，可快速实现播放。
 
-* **兼容性**：目前主要支持PC上chrome，firefox，edge等主流浏览器,移动端只有android chrome支持。
+* **兼容性**：目前主要支持PC上Chrome, FireFox, Microsoft Edge等主流浏览器, 移动端只有Android Chrome支持。
 
 * **渲染类型**：支持普通2D视频点播直播。
 
 
 
-## 快速体验播放效果 (https://rs1-pv.vrviu.com/h5/v1.3/index.html) 
+## 快速体验播放效果
+请访问地址：(https://rs1-pv.vrviu.com/h5/v1.3/index.html) 
 
 
 ## 导入SDK
