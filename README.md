@@ -60,7 +60,7 @@ V1.0.0
 ```javascript
 <script src="./dest/ready/js/encript2d.min.js"></script>
 
-./encript2d.min.js
+//encript2d.min.js
 
 new VRVIUPlayer2D({
         url:"https://img.vrviu.com/static/media/vrviu_level_2_e13_noSEI.flv",
