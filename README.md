@@ -79,8 +79,8 @@ new VRVIUPlayer2D({
 ## 配置参数表
  |参数|说明|是否必填|类型|
  |:---|:---|:---|:---|
- |url||视频或者直播流地址|必填|String|
- |isLive||是否是直播|必填|Boolean|
+ |url|视频或者直播流地址|必填|String|
+ |isLive|是否是直播|必填|Boolean|
  |AppId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AppId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AccessKeyId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
