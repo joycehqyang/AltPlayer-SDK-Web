@@ -26,7 +26,7 @@ V1.0
 
 ## 导入SDK
 ### 1. 开发准备
-下载最新的VRVIUPlayer2D.min.js以及VRVIUPlayer2D.min.css
+下载最新的VRVIU_AltPlayer.min.js以及VRVIU_AltPlayer.min.css
 
 ### 2. 导入SDK
 ##### 2.1 新建Html文件导入js-sdk以及css文件
