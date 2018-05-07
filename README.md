@@ -63,7 +63,7 @@ V1.0
 
 //AltPlayer_Configure.min.js
 
-new VRVIUPlayer2D({
+new VRVIU_AltPlayer({
         url:"https://img.vrviu.com/static/media/VRVIU_AltPlayer_Demo.flv",
         AppId :'vrviu_altsdk',
         AccessKeyId :'730c029686b86a332facca0bb1a9f53a',
