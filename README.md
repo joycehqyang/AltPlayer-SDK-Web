@@ -14,7 +14,7 @@ V1.0
 
 * **接口简单全面**：实现播放接口简单，可快速实现播放。
 
-* **兼容性**：目前主要支持PC上Chrome, FireFox, Microsoft Edge等主流浏览器, 移动端只有Android Chrome支持。
+* **兼容性**：目前主要支持PC上Chrome，FireFox，Microsoft Edge等主流浏览器，移动端只有Android Chrome支持。
 
 * **渲染类型**：支持普通2D视频点播直播。
 
