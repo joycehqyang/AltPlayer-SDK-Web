@@ -3,21 +3,21 @@
 [![](https://img.shields.io/badge/Powered%20by-vrviu.com-brightgreen.svg)](https://vrviu.com)
 
 ## 版本
-V1.0
+20180507 V1.0发布；
 
 ## 功能说明
 支持FLV格式普通视频点播以及直播功能，其中直播是网络主播实时推送的视频流，用户能够及时看到主播的画面。点播是播放云端或者本地的文件。
 
-* **播放器格式支持**：目前只能支持FLV格式视频或者HTTP-FLV格式视频流。
+## 产品特点
+**1. 播放器格式支持**：目前支持FLV格式视频或者HTTP-FLV格式视频流
 
-* **协议支持**：支持HTTP-FLV协议，以及本地文件的播放。
+**2. 播放格式**：普通2D视频点播/直播
 
-* **接口简单全面**：实现播放接口简单，可快速实现播放。
+**3. 协议支持**：支持HTTP-FLV协议，以及本地文件的播放
 
-* **兼容性**：目前主要支持PC上Chrome，Firefox，Microsoft Edge等主流浏览器，移动端只有Android Chrome支持。
+**4. 接口简单全面**：实现播放接口简单，可快速实现播放
 
-* **渲染类型**：支持普通2D视频点播直播。
-
+**5. 兼容性**：目前主要支持PC上Chrome，Firefox，Microsoft Edge等主流浏览器，移动端支持Android Chrome
 
 
 ## Demo展示
@@ -74,8 +74,6 @@ new VRVIU_AltPlayer({
 ```
 
 
-
-
 ## 配置参数表
  |参数|说明|是否必填|类型|
  |:---|:---|:---|:---|
@@ -87,7 +85,6 @@ new VRVIU_AltPlayer({
  |BizId|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String|
  |AccessKeySecret|分配给用户的ID，可通过 www.vrviu.com 填写表单或者联系客服申请|必填|String
 
-## 商务合作
-电话：0755-86960615
-
-邮箱：business@vrviu.com
+## 联系我们
+ 如果有技术问题咨询，请加入官方QQ群：136562408；   
+ 商务合作请电话：0755-86960615；邮箱：business@vrviu.com；或者至[官网](http://www.vrviu.com)"联系我们" 。
