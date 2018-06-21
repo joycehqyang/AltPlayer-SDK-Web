@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/Powered%20by-vrviu.com-brightgreen.svg)](https://vrviu.com)
 
-## 版本
+## 版本历史
 20180507 V1.0发布；
 
 ## 功能说明
